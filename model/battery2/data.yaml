@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['9V', 'AA', 'AAA', 'COIN']
+
+roboflow:
+  workspace: -mceqr
+  project: battery-92tmi
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/-mceqr/battery-92tmi/dataset/1
