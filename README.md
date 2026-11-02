@@ -1,4 +1,4 @@
-# Project-Battery · VoltScan
+# Project-Battery
 
 YOLOv8 기반으로 배터리의 외형을 탐지하고, 웹캠 영상에서 탐지 결과를 확인하는 Python 데스크톱 프로젝트입니다. 학습 데이터셋, 학습 가중치와 결과, PySide6 기반 UI를 포함합니다.
 
