@@ -160,4 +160,3 @@ python -m venv .venv
 ## 발표 자료
 
 [YOLO 배터리 분류 모델 발표 PPT (PDF)](YOLO%20배터리%20분류%20모델%20발표%20PPT.pdf)
-# 되나?
